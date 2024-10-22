@@ -39,7 +39,7 @@ Feel free to check out my GitHub repositories to see examples of my work. If you
 <div align = "center">
 
 ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robisikiric&theme=tokyonight)
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robisikiric&theme=tokyonight)
+<!--![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robisikiric&theme=tokyonight) -->
 
 </div>
 
