@@ -12,7 +12,7 @@
   </h2>
   
   <div align="center"> 
-    <a href="mailto:robisikiric@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+    <a href="mailto:yamatochiaki@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
     &nbsp;&nbsp;
     <a href="https://t.me/ym9641" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000"  width="40" /></a>
     &nbsp;&nbsp;
@@ -23,7 +23,7 @@
 
 <b>Welcome to my GitHub profile!</b>
 
-I'm a Full Stack Blockchain Engineer with over 10 years of experience in building decentralized applications and web applications. I'm passionate about creating scalable and secure solutions using cutting-edge technology.
+I'm a Full Stack Blockchain Engineer with over 8 years of experience in building decentralized applications and web applications. I'm passionate about creating scalable and secure solutions using cutting-edge technology.
 
 As a full stack developer, I'm proficient in front-end technologies such as <b> HTML, CSS, JavaScript, and React, Vue, Angular, etc as well as back-end technologies such as Python, Node.js, Express, Laravel and MongoDB, MySQL </b>, etc. I have also worked on blockchain projects using <b> Ethereum, Solana, Solidity, Rust, and Web3.js. </b> I'm always eager to learn new technologies and frameworks to solve complex problems.
 
