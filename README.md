@@ -12,7 +12,7 @@
   </h2>
   
   <div align="center"> 
-    <a href="mailto:yamatochiaki@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+    <a href="mailto:yamatochiaki888@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
     &nbsp;&nbsp;
     <a href="https://t.me/ym9641" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000"  width="40" /></a>
     &nbsp;&nbsp;
