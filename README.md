@@ -51,12 +51,4 @@ Feel free to check out my GitHub repositories to see examples of my work. If you
 
 </div>
 
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=robisikiric&limit=5&theme=dark&combine_all_yearly_contributions=true&center)
-
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
