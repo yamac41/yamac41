@@ -38,8 +38,8 @@ Feel free to check out my GitHub repositories to see examples of my work. If you
  
 <div align = "center">
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ym9641&theme=tokyonight)
-<!--![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robisikiric&theme=tokyonight) -->
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yamac41&theme=tokyonight)
+<!--![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yamac41&theme=tokyonight) -->
 
 </div>
 
@@ -47,7 +47,7 @@ Feel free to check out my GitHub repositories to see examples of my work. If you
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=robisikiric&column=7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yamac41&column=7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
