@@ -4,21 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<div align="center">
-  <h2>
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-      How to reach me
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  </h2>
-  
-  <div align="center"> 
-    <a href="mailto:yamatochiaki888@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/ym9641" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000"  width="40" /></a>
-    &nbsp;&nbsp;
-  </div>
-</div>
-
 # 💫 About Me
 
 <b>Welcome to my GitHub profile!</b>
